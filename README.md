@@ -12,8 +12,8 @@
 
 I am a Computer Science student passionate about Full Stack Web Development.
 
-I enjoy building modern, responsive, and scalable web applications using the MERN Stack. 
-I love exploring new technologies, solving problems, and creating real-world projects that improve my development skills.
+I enjoy building modern, responsive, and scalable web applications using the MERN Stack.  
+I love exploring new technologies, solving problems, and creating real-world projects to improve my development skills.
 
 ---
 
@@ -36,16 +36,22 @@ I love exploring new technologies, solving problems, and creating real-world pro
 - Tailwind CSS
 - Bootstrap
 
+---
+
 ## ⚙️ Backend Development
 
 - Node.js
 - Express.js
 - REST APIs
 
+---
+
 ## 🗄️ Database
 
 - MongoDB
 - MongoDB Atlas
+
+---
 
 ## 👩‍💻 Programming Languages
 
@@ -53,13 +59,15 @@ I love exploring new technologies, solving problems, and creating real-world pro
 - Java
 - C#
 
+---
+
 ## 🔧 Tools & Platforms
 
 - Git
 - GitHub
 - VS Code
 - Postman
-- MongoDB atlas
+  
 
 ---
 
@@ -67,7 +75,7 @@ I love exploring new technologies, solving problems, and creating real-world pro
 
 ## 📝 MERN Todo App
 
-A full-stack task management application built using MERN Stack.
+A full-stack task management application built using the MERN Stack.
 
 ### Features:
 ✅ Create tasks  
@@ -76,7 +84,7 @@ A full-stack task management application built using MERN Stack.
 ✅ Mark tasks as completed  
 ✅ REST API Integration  
 
-**Technologies:**
+**Technologies:**  
 React.js | Node.js | Express.js | MongoDB
 
 
@@ -84,15 +92,15 @@ React.js | Node.js | Express.js | MongoDB
 
 ## 🛒 E-Commerce Website
 
-A modern e-commerce web application with a responsive user interface.
+A responsive e-commerce web application with a modern user interface.
 
 ### Features:
 ✅ Product listing  
 ✅ Product details  
 ✅ Shopping cart functionality  
-✅ User-friendly UI  
+✅ Responsive design  
 
-**Technologies:**
+**Technologies:**  
 React.js | JavaScript | CSS | API Integration
 
 
@@ -100,15 +108,15 @@ React.js | JavaScript | CSS | API Integration
 
 ## 📝 Blog Website
 
-A dynamic blogging platform where users can create and manage blog content.
+A dynamic blogging platform for creating and managing blog content.
 
 ### Features:
 ✅ Create blogs  
 ✅ Read articles  
 ✅ Manage posts  
-✅ Responsive design  
+✅ Responsive UI  
 
-**Technologies:**
+**Technologies:**  
 React.js | Node.js | Express.js | MongoDB
 
 
@@ -116,32 +124,32 @@ React.js | Node.js | Express.js | MongoDB
 
 ## 📒 Notes App
 
-A note management application for creating and organizing personal notes.
+A note management application to create and organize personal notes.
 
 ### Features:
 ✅ Add notes  
 ✅ Edit notes  
 ✅ Delete notes  
-✅ Manage user data  
+✅ Manage notes easily  
 
-**Technologies:**
-MERN Stack
+**Technologies:**  
+React.js | Node.js | Express.js | MongoDB
 
 
 ---
 
 ## 🍲 Recipe App
 
-A recipe searching and management application.
+A recipe application for searching and exploring different recipes.
 
 ### Features:
 ✅ Search recipes  
 ✅ Display recipe details  
 ✅ User-friendly interface  
-✅ Responsive design  
+✅ Responsive layout  
 
-**Technologies:**
-React.js | API Integration | JavaScript
+**Technologies:**  
+React.js | JavaScript | API Integration
 
 
 ---
@@ -164,8 +172,8 @@ React.js | API Integration | JavaScript
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://www.linkedin.com/in/nidaayub?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
+<a href="https://www.linkedin.com/in/nidaayub">
+<img src="https://skillics.dev/icons?i=linkedin" />
 </a>
 
 </p>
