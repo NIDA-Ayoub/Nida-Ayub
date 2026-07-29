@@ -165,7 +165,7 @@ React.js | API Integration | JavaScript
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://www.linkedin.com/in/nidaayub?utm_source=share_via&utm_content=profile&utm_medium=member_android" />
 </a>
 
 </p>
