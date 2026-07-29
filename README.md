@@ -56,8 +56,7 @@ I love exploring new technologies, solving problems, and creating real-world pro
 ## 👩‍💻 Programming Languages
 
 - JavaScript
-- Java
-- C#
+  
 
 ---
 
