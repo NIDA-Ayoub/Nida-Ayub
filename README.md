@@ -21,7 +21,7 @@ I love exploring new technologies, solving problems, and creating real-world pro
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,java,cs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,vscode,postman,cs" />
 
 </p>
 
@@ -168,11 +168,11 @@ React.js | JavaScript | API Integration
 <p align="left">
 
 <a href="https://github.com/NIDA-Ayoub">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/nidaayub">
-<img src="https://skillics.dev/icons?i=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
