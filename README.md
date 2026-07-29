@@ -6,7 +6,7 @@
 
 🌱 Currently learning Advanced MERN Stack and AI
 
-💼 Open to Internship & Graduate Opportunities
+💼 Open to Internship & Graduate Opportunities & junior developer
 
 ---
 
